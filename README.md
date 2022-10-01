@@ -1,3 +1,3 @@
-# NodeJS-File-Server
+File Server με NodeJS κωδικα!
 Ανάπτυξη Web Server με NodeJS όπου όταν ο χρήστης επισκεπτεται την localhost:3333 ενα αρχείο .txt κατεβαίνει στα downloads του Υπολογιστή του.
 Δημιουρήσαμε αυτόν τον απλό σερβερ με 3 build-in βιβλιοθηκες (http,url,fs) και τον χρησιμοποιούμε σαν file server να κατεβάζει αρχεία της αρεσκείας μας.
